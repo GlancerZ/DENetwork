@@ -261,6 +261,7 @@ DENetwork was developed by the Ding Lab @ McGill University, and implemented by 
 
 ## Contact
 Jun Ding jun.ding@mcgill.ca <br />
+Bowen Zhao bowen.zhao@mail.mcgill.ca <br />
 Ting-Yi Su ting-yi.su@mail.mcgill.ca
 
 ## Citation
@@ -281,6 +282,7 @@ Ting-Yi Su ting-yi.su@mail.mcgill.ca
 
 ## RNA-seq datasets
 
-The other 2 RNA-seq datasets used in the manuscript are available under the 'rna_seq_data' folder.
+The other RNA-seq datasets used in the manuscript are available under the 'rna_seq_data' folder.
   * 'Alox15_macrophage_rna_seq_data.tsv': data for wildtype and Alox15-/- mouse macrophages
   * 'covid_rna_seq_data.tsv': data for patients tested positive or negative for the SARS-CoV-2 virus
+  * 'liver_cancer_TCGA.tsv': data for patients 
